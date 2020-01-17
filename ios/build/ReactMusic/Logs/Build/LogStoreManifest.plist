@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>45E63DCF-AB73-4983-B31A-DCF9E3749198</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>45E63DCF-AB73-4983-B31A-DCF9E3749198.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ReactMusic project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ReactMusic</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project ReactMusic with scheme ReactMusic and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600585204.95768201</real>
+			<key>timeStoppedRecording</key>
+			<real>600585208.24354899</real>
+			<key>title</key>
+			<string>Building project ReactMusic with scheme ReactMusic and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>45E63DCF-AB73-4983-B31A-DCF9E3749198</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
